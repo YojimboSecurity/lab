@@ -1,0 +1,3 @@
+#+TITLE: Lab
+
+A Windows 2012r2 Adctive Directory red-team/blue-team lab.
