@@ -8,7 +8,7 @@ function Message{
     #>
     param([String] $msg)
     process{
-        Write-Host -ForegroundColor Green "[+] $msg"
+        Write-Host "[+] $msg"
     }
 }
 
